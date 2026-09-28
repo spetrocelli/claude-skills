@@ -1,0 +1,11 @@
+{
+  "name": "spetrocelli-skills",
+  "owner": { "name": "Stefano Petrocelli" },
+  "plugins": [
+    {
+      "name": "vibecodingbystefano",
+      "source": "./vibecodingbystefano",
+      "description": "Senior Assistant Architect e Developer - workflow API-First"
+    }
+  ]
+}
